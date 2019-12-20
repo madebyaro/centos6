@@ -1,0 +1,7 @@
+#/bin/bash
+
+mkdir -p /home/repos
+cd /home/repos
+for f in base updates epel extras ; do
+    reposync -r $f
+done

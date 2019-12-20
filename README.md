@@ -4,6 +4,8 @@ Instructions for Centos 6 mirror
 
 Install Centos 6.10 on VM run by VMware Player for VirtualBox.
 
+Can also use docker running on Ubuntu, see the Makefile.
+
 Install Centos 6.10 with following options:
 
   2-4 GB memory, 500Gb - 1Tb disk, 2-4 processors
