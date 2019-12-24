@@ -2,6 +2,10 @@
 
 Instructions for Centos 6 mirror
 
+Preferred method is to use docker container, see the Makefile for more info.
+
+VM method:
+
 Install Centos 6.10 on VM run by VMware Player for VirtualBox.
 
 Can also use docker running on Ubuntu, see the Makefile.
